@@ -19,7 +19,6 @@ Approach:
 
 7.Saved the final cleaned audio using audiowrite.
 
-![Screenshot 2025-04-10 012913](https://github.com/user-attachments/assets/0210dae9-0bff-4053-93e8-3247dbc67f47)
 
 
 
